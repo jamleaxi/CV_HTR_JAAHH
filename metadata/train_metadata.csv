@@ -1,4 +1,4 @@
-file_name,text
+﻿file_name,text
 line_001.jpg,Today showed me that even difficult days teach strength and resilience.
 line_002.jpg,"I appreciated the little things today, like a kind word or a simple smile."
 line_003.jpg,"The day wasn't perfect, but I found small reasons to smile, and it was still worthwhile."
@@ -133,103 +133,224 @@ line_131.jpg,She counted days on her fingers.
 line_132.jpg,His silence was very heavy.
 line_133.jpg,A moth tapped on the light.
 line_134.jpg,She fell asleep before the alarm.
-line_135.png,Every sunrise is a new chance to begin again.
-line_136.png,Ang bawat umaga ay pagkakataong bumangon at magsimula muli.
-line_137.png,Small steps today create big results tomorrow.
-line_138.png,Ang maliliit na hakbang ngayon ay nagiging malaking tagumpay bukas.
-line_139.png,Gratitude turns ordinary moments into blessings.
-line_140.png,Ang pasasalamat ay nagbibigay halaga sa mga simpleng bagay.
-line_141.png,Hard times reveal hidden strengths.
-line_142.png,Ang pagsubok ay nagpapakita ng tunay na tibay ng loob.
-line_143.png,Never underestimate the power of persistence.
-line_144.png,Huwag maliitin ang kapangyarihan ng pagtitiyaga.
-line_145.png,Kind words can change someone's day.
-line_146.png,Ang mabuting salita ay kayang magpagaan ng damdamin.
-line_147.png,Success is built one effort at a time.
-line_148.png,Ang tagumpay ay bunga ng paulit-ulit na pagsisikap.
-line_149.png,"Stay focused on progress, not perfection."
-line_150.png,"Ituon ang pansin sa pag-unlad, hindi sa pagiging perpekto."
-line_151.png,Challenges are opportunities in disguise.
-line_152.png,Ang mga hamon ay mga pagkakataong nakatago lamang.
-line_153.png,Your courage grows every time you try.
-line_154.png,Lumalakas ang iyong loob sa bawat pagtatangka.
-line_155.png,Happiness often starts with gratitude.
-line_156.png,Madalas nagsisimula ang kaligayahan sa pasasalamat.
-line_157.png,Keep moving even when the road is difficult.
-line_158.png,Magpatuloy kahit mahirap ang daan.
-line_159.png,Kindness costs nothing but means everything.
-line_160.png,Walang halaga ang kabaitan ngunit napakahalaga nito.
-line_161.png,Every mistake teaches a valuable lesson.
-line_162.png,Ang bawat pagkakamali ay may mahalagang aral.
-line_163.png,Strength is not the absence of struggle.
-line_164.png,Ang lakas ay hindi kawalan ng problema.
-line_165.png,Believe in your ability to overcome obstacles.
-line_166.png,Maniwala sa kakayahan mong malampasan ang mga hadlang.
-line_167.png,Patience helps dreams grow.
-line_168.png,Ang pasensya ang tumutulong sa mga pangarap na umusbong.
-line_169.png,Resilience is choosing to rise again.
-line_170.png,Ang katatagan ay ang pagpiling bumangon muli.
-line_171.png,A grateful heart attracts peace.
-line_172.png,Ang pusong marunong magpasalamat ay nakatatagpo ng kapayapaan.
-line_173.png,Growth happens outside your comfort zone.
-line_174.png,Ang pag-unlad ay nangyayari sa labas ng iyong nakasanayan.
-line_175.png,Humility keeps success meaningful.
-line_176.png,Ang kababaang-loob ang nagbibigay saysay sa tagumpay.
-line_177.png,"Every effort matters, even unseen ones."
-line_178.png,Mahalaga ang bawat pagsisikap kahit hindi napapansin.
-line_179.png,Hope shines brightest during dark times.
-line_180.png,Ang pag-asa ay mas nagniningning sa gitna ng dilim.
-line_181.png,Your journey is unique and valuable.
-line_182.png,Ang iyong paglalakbay ay natatangi at mahalaga.
-line_183.png,Strong roots help trees survive storms.
-line_184.png,Ang matibay na pundasyon ang tumutulong sa pagharap sa unos.
-line_185.png,Learn from yesterday and work for tomorrow.
-line_186.png,Matuto sa kahapon at kumilos para sa bukas.
-line_187.png,Kindness leaves a lasting legacy.
-line_188.png,Ang kabaitan ay nag-iiwan ng magandang alaala.
-line_189.png,Progress is better than standing still.
-line_190.png,Mas mabuti ang pag-usad kaysa manatiling nakatigil.
-line_191.png,Great achievements require consistency.
-line_192.png,Ang malalaking tagumpay ay nangangailangan ng pagiging tuloy-tuloy.
-line_193.png,"Be thankful for lessons, not just victories."
-line_194.png,Magpasalamat hindi lamang sa tagumpay kundi pati sa mga aral.
-line_195.png,Difficult roads often lead to beautiful destinations.
-line_196.png,Madalas na maganda ang hantungan ng mahihirap na daan.
-line_197.png,Ang taong mapagkumbaba ay patuloy na natututo.
-line_198.png,A humble person continues to learn.
-line_199.png,Keep faith even when answers are delayed.
-line_200.png,Manatiling may pananampalataya kahit mabagal ang kasagutan.
-line_201.png,Resilience is stronger than fear.
-line_202.png,Mas malakas ang katatagan kaysa takot.
-line_203.png,Every day offers a new lesson.
-line_204.png,Bawat araw ay may bagong aral na dala.
-line_205.png,Gratitude makes life richer.
-line_206.png,Ang pasasalamat ay nagpapayaman sa buhay.
-line_207.png,Never stop improving yourself.
-line_208.png,Huwag tumigil sa pagpapabuti ng sarili.
-line_209.png,Your effort today shapes your future.
-line_210.png,Ang pagsisikap mo ngayon ang humuhubog sa iyong kinabukasan.
-line_211.png,A positive mindset creates possibilities.
-line_212.png,Ang positibong pag-iisip ay lumilikha ng mga posibilidad.
-line_213.png,True strength includes compassion.
-line_214.png,Kasama sa tunay na lakas ang malasakit.
-line_215.png,Keep your dreams alive through action.
-line_216.png,Panatilihing buhay ang mga pangarap sa pamamagitan ng pagkilos.
-line_217.png,Humility opens doors to wisdom.
-line_218.png,Ang kababaang-loob ay nagbubukas ng pinto sa karunungan.
-line_219.png,Success feels better when shared.
-line_220.png,Mas masaya ang tagumpay kapag naibabahagi.
-line_221.png,Every storm eventually passes.
-line_222.png,Ang bawat bagyo ay lumilipas din.
-line_223.png,Believe that better days are coming.
-line_224.png,Maniwala na may mas magagandang araw na darating.
-line_225.png,Kindness is a language everyone understands.
-line_226.png,Ang kabaitan ay wikang nauunawaan ng lahat.
-line_227.png,Keep going; your story is not over.
-line_228.png,Magpatuloy ka; hindi pa tapos ang iyong kuwento.
-line_229.png,Gratitude transforms what we have into enough.
-line_230.png,Ang pasasalamat ay ginagawang sapat ang anumang mayroon tayo.
-line_231.png,The strongest people keep moving forward.
-line_232.png,Ang pinakamatatag na tao ay patuloy na sumusulong.
-line_233.png,Life rewards those who persevere with purpose.
-line_234.png,Ginagantimpalaan ng buhay ang mga taong nagtitiyaga nang may layunin.
+line_135.jpg,Ang iro naggukod sa iring sa nataran.
+line_136.jpg,Ang langgam nagpahulay sa sanga sa kahoy.
+line_137.jpg,Ang bitin nagkamang sa sagbot.
+line_138.jpg,Ang kabayo nagdagan sa kasagbutan.
+line_139.jpg,Ang baka nag-saba sa uma.
+line_140.jpg,Ang kanding nagsaka sa bungtod.
+line_141.jpg,Ang baboy nagkalot sa lapok.
+line_142.jpg,Ang daga nitago sa lungag.
+line_143.jpg,Ang kabaw nagligid sa suba.
+line_144.jpg,Ang tuko nagsaka sa paril.
+line_145.jpg,Ang alibangbang milupad sa mga bulak.
+line_146.jpg,Ang buyog nangolekta og dugos.
+line_147.jpg,Ang hulmigas nagdala og pagkaon.
+line_148.jpg,Ang bakukang naglupad sa kangitngit.
+line_149.jpg,Ang uk-ok mitago sa likod sa kahoy.
+line_150.jpg,Ang kaka naghabol sa iyang laway.
+line_151.jpg,Ang palaka milukso sa lim-aw.
+line_152.jpg,Ang tabili naglangoy sa sapa.
+line_153.jpg,Ang manok naminyo sa kaadlawon.
+line_154.jpg,Ang pato nagtago sa dahon.
+line_155.jpg,Ang kahoy taas kaayo nga nakaabot sa panganod.
+line_156.jpg,Ang dahon nangahulog sa tingdagdag
+line_157.jpg,Ang bunga sa niyog nahulog sa yuta.
+line_158.jpg,Ang saging hinog na ug dalag ang panit.
+line_159.jpg,Ang manga tam-is kaayo paminawon.
+line_160.jpg,Ang kawayan nagduko sa hangin.
+line_161.jpg,Ang sagingan lunhaw kaayo tan-awon.
+line_162.jpg,Ang bunga sa lubi gitawag og "nokos" kon bag-o pa.
+line_163.jpg,Ang gapas humok sama sa panganod.
+line_164.jpg,Ang rosas nindot ug baho.
+line_165.jpg,Ang adlaw nagasidlak sa sayo sa buntag.
+line_166.jpg,Ang buwan hayag kaayo kagabhion.
+line_167.jpg,Ang bituon nagakidlap sa ngitngit nga langit.
+line_168.jpg,Ang panganod puti ug samag gapas.
+line_169.jpg,Ang hangin mihuyop sa akong nawong
+line_170.jpg,Ang ulan mihunong na sa pagkahapon.
+line_171.jpg,Ang dalugdog makahadlok pamation
+line_172.jpg,Ang kilat misidlak sa wala damha.
+line_173.jpg,Ang balangaw mitunga human sa ulan.
+line_174.jpg,Ang gabon mitabon sa kabukiran.
+line_175.jpg,Ang baha mitabon sa ubos nga mga balay.
+line_176.jpg,Ang linog mipakurat sa among pagkatulog
+line_177.jpg,Ang bagyo kusog kaayo mihuros.
+line_178.jpg,Ang kalayo misilaob sa lasang.
+line_179.jpg,Ang abog milupad tungod sa hangin
+line_180.jpg,Ang yelo natunaw sa kainit sa adlaw
+line_181.jpg,Ang aso gikan sa sigarilyo sa layo
+line_182.jpg,Ang gabon mitabon sa syudad sa buntag.
+line_183.jpg,Ang lunop midaot sa mga tanom sa uma.
+line_184.jpg,Ang lasang baga kaayo ug lunhaw nga panagway.
+line_185.jpg,Ang bukid taas kaayo nga nakaabot sa langit.
+line_186.jpg,Ang bungtod lunhaw ug lingin ang porma.
+line_187.jpg,Ang suba nagaagos paingon sa dagat.
+line_188.jpg,Ang sapa hinay ug dagan sa tubig.
+line_189.jpg,Ang sapa limpyo ug tin-aw ang tubig.
+line_190.jpg,Ang tubod bugnaw ug tam-is ug lami.
+line_191.jpg,Ang busay nindot tan-awon ilabi na sa udto.
+line_192.jpg,Ang langob ngitngit ug tugnaw sa sulod.
+line_193.jpg,Ang baybayon puti ang balas.
+line_194.jpg,Ang yuta miagas sa bukid human ang ulan.
+line_195.jpg,"Ang kinabuhi sama sa suba; bisan adunay bato, padayon gihapon ang agos."
+line_196.jpg,Pasalamati ang matag buntag kay usa kini ka bag-ong higayon.
+line_197.jpg,Ang kalisod dili katapusan; usa lamang kini ka leksyon sa paglig-on.
+line_198.jpg,Ang mapasalamatan nga kasingkasing mas malinawon.
+line_199.jpg,"Bisan kapila mapildi, ang importante mao ang pagbangon pag-usab."
+line_200.jpg,Ang kinabuhi mas nindot kung makita nato ang mga panalangin bisan sa kasamok.
+line_201.jpg,Ang kalampusan nagsugod sa pagtuo sa kaugalingon.
+line_202.jpg,"Ang ulan mohunong, ug mosidlak ra gihapon ang adlaw."
+line_203.jpg,Ang paglahutay mao ang yawe sa kalampusan.
+line_204.jpg,Ang matag pagsulay naghulma sa mas lig-on nga kaugmaon.
+line_205.jpg,"Dili tanan adlaw hayag, apan matag gabii adunay kaadlawon."
+line_206.jpg,Ang pagpasalamat naghatag kahayag bisan sa kangitngit.
+line_207.jpg,Ang pagkapukan dili kapakyasan kung mubangon ka pag-usab.
+line_208.jpg,Ang kusog makita sa tawo nga mopadayon bisan kapoy na.
+line_209.jpg,Ang kinabuhi puno sa hagit aron tudluan ta unsaon pagbarog.
+line_210.jpg,Ang paglaum mao ang suga sa malisod nga dalan.
+line_211.jpg,Ang mga samad sa kagahapon mahimong kusog sa karon.
+line_212.jpg,Ayaw kahadlok sa kalisod; didto natawhan ang kaisog.
+line_213.jpg,Ang mapailubon makadawat ug maayong bunga.
+line_214.jpg,Ang matag adlaw adunay rason sa pagpasalamat.
+line_215.jpg,"Ang kalig-on dili sukdon sa kakulang sa luha, kundili sa pagpadayon."
+line_216.jpg,Ang pagkadaug magsugod sa dili pagsurender.
+line_217.jpg,Ang kinabuhi usa ka panaw sa pagkat-on ug pagtubo.
+line_218.jpg,Ang pagsulay nag-andam nato alang sa mas dako nga grasya.
+line_219.jpg,Ang mapasalamatan nga hunahuna puno sa kalinaw.
+line_220.jpg,Ang pag-antus karon mahimong kalipay ugma.
+line_221.jpg,Ang kusog sa tawo makita sa iyang pagbangon human sa kapildihan.
+line_222.jpg,"Ang kakapoy molabay, apan ang bunga sa paningkamot magpabilin."
+line_223.jpg,Ang kinabuhi mohatag ug unos aron tudluan ta paglayag.
+line_224.jpg,Ang paglaum dili mawala basta magpabilin ang pagtoo.
+line_225.jpg,Ang matag kapakyasan usa ka hagdan padulong sa kalampusan.
+line_226.jpg,Ang pagpasalamat nagdala ug dugang panalangin.
+line_227.jpg,Ang lisod nga panahon dili permanente.
+line_228.jpg,"Ang lig-on nga tawo dili kanunay malipayon, apan kanunay nagpadayon."
+line_229.jpg,Ang kahimtang karon dili magbuot sa imong kaugmaon.
+line_230.jpg,Ang paglahutay maoy timaan sa tinuod nga kaisog.
+line_231.jpg,Ang adlaw mosubang bisan human sa labing ngitngit nga gabii.
+line_232.jpg,Ang kinabuhi nagtudlo pinaagi sa kasinatian.
+line_233.jpg,Ang pagpasalamat nagbag-o sa paagi sa pagtan-aw sa kalibutan.
+line_234.jpg,Ang kalisod maoy nagtudlo unsaon pagbarog nga lig-on.
+line_235.jpg,Ang matag gininhawa usa ka gasa.
+line_236.jpg,"Ang pagkapakyas usa lamang ka pahulay, dili katapusan."
+line_237.jpg,Ang paglaum mao ang kusog sa naglisod nga kalag.
+line_238.jpg,Ang pagpadayon bisan walay kasiguruhan usa ka dakong kaisog.
+line_239.jpg,Ang kinabuhi mas bililhon kung giubanan sa pagpasalamat.
+line_240.jpg,Ang mga luha usahay mao ang tubig sa pagtubo.
+line_241.jpg,Ang kalig-on makita sa pagbarog bisan natumba na.
+line_242.jpg,"Ang mga pagsulay dili aron pildihon ka, kundili aron palig-onon ka."
+line_243.jpg,Ang pagtuo sa kaugalingon usa ka dakong kusog.
+line_244.jpg,Ang mapailubon makakita sa kahayag sa hustong panahon.
+line_245.jpg,Ang kinabuhi adunay panamilit aron adunay bag-ong pagsugod.
+line_246.jpg,Ang pagpasalamat bisan gamay nagdala ug dako nga kalipay.
+line_247.jpg,Ang kaisog magsugod sa usa ka lakang padayon.
+line_248.jpg,"Ang tanan moagi sa unos, apan dili tanan magpabiling nalumos."
+line_249.jpg,Ang paglahutay usa ka porma sa pagdaug.
+line_250.jpg,Ang paglaum naghatag kusog sa gikapoy nga kasingkasing.
+line_251.jpg,Ang kalisod maoy nagpadayag sa tinuod nga kusog.
+line_252.jpg,Ang matag adlaw usa ka oportunidad sa pag-uswag.
+line_253.jpg,Ang pagpasalamat makahatag kahupayan sa kalag.
+line_254.jpg,"Ang kinabuhi dili lumba, apan panaw."
+line_255.jpg,Ang kapakyasan dili sukdanan sa imong bili.
+line_256.jpg,Ang kusog makita sa pagbangon bisan walay motabang.
+line_257.jpg,Ang panahon sa kasakit dili molungtad hangtod sa kahangturan.
+line_258.jpg,Ang paglahutay nagdala ngadto sa kadaugan.
+line_259.jpg,Ang matag hagit adunay leksyon nga gitago.
+line_260.jpg,Ang paglaum mao ang gamot sa kalig-on.
+line_261.jpg,Ang mapasalamatan nga tawo mas dali makakita ug kalipay.
+line_262.jpg,Ang pagpadayon bisan lisod usa ka dakong kadaugan.
+line_263.jpg,Ang kinabuhi nagkinahanglan usahay ug taas nga pagpailub.
+line_264.jpg,Ang kalisod maoy nagsukod sa imong determinasyon.
+line_265.jpg,Ang pagpasalamat usa ka pamaagi sa pag-ila sa grasya.
+line_266.jpg,Ang pagkahugno dili dautan kung makatukod ka pag-usab.
+line_267.jpg,Ang adlaw sa kalipay moabot alang sa mapailubon.
+line_268.jpg,Ang lig-on nga kasingkasing dili dali mapildi.
+line_269.jpg,Ang pagtuo naghatag kusog sa walay paglaum.
+line_270.jpg,Ang matag paningkamot adunay bunga sa hustong panahon.
+line_271.jpg,Ang kinabuhi mohatag ug higayon sa tanan nga andam.
+line_272.jpg,Ang pagpasalamat bisan sa pagsulay usa ka dakong kalig-on.
+line_273.jpg,Ang kalisod usa ka tulay paingon sa pagtubo.
+line_274.jpg,Ang paglahutay maoy dalan sa kalampusan.
+line_275.jpg,Ang paglaum nagpabilin bisan sa pinaka-ngitngit nga kahimtang.
+line_276.jpg,Ang mga kasakit karon mahimong istorya sa kadaugan ugma.
+line_277.jpg,Ang kinabuhi nagtudlo sa tawo pinaagi sa pag-antus.
+line_278.jpg,Ang mapasalamatan nga kasingkasing dili dali mapul-an.
+line_279.jpg,Ang pagbangon usa ka pagpili nga puno sa kaisog.
+line_280.jpg,Ang kalig-on makita sa tawo nga dili mohunong.
+line_281.jpg,Ang matag gabii adunay saad nga kaadlawon.
+line_282.jpg,Ang pagpadayon usa ka pagpakita sa pagtoo.
+line_283.jpg,Ang kinabuhi puno sa panalangin nga usahay dili dayon makita.
+line_284.jpg,Ang pagpasalamat naghatag kahulugan sa matag adlaw.
+line_285.jpg,Ang kalisod dili makapilde sa adunay lig-on nga paglaum.
+line_286.jpg,Ang paglahutay naghatag ug kahulugan sa paningkamot.
+line_287.jpg,Ang matag pagsulay adunay katapusan.
+line_288.jpg,Ang paglaum mao ang tingog nga nag-ingon padayon lang.
+line_289.jpg,"Ang kusog dili gikan sa walay problema, kundili sa pag-atubang niini."
+line_290.jpg,Ang kinabuhi mas maanindot kung dili ta mohunong sa pagtuo.
+line_291.jpg,Ang pagpasalamat mao ang dalan sa tinuod nga kalipay.
+line_292.jpg,Ang pagkapildi karon mahimong sugod sa kadaugan ugma.
+line_293.jpg,Ang kalig-on naggikan sa paglahutay sa tanan nga unos.
+line_294.jpg,"Bisan unsa kakusog ang bagyo, ang matinud-anong kasingkasing makabarog gihapon."
+line_295.jpg,Ang pagkamalumo ug pagkamabination maoy tinuod nga kadato sa kinabuhi.
+line_296.jpg,I need more coffee to stay awake and finish my remaining tasks.
+line_297.jpg,Wala pa baya ko nakahuman ug review para sa exam ugma.
+line_298.jpg,Nakakatawa talaga ang mga memes ngayon.
+line_299.jpg,The internet connection is unstable today.
+line_300.jpg,Pwede pa ba ta magkita ugma sa hapon para magkastorya ta ug tarong.
+line_301.jpg,She always arrives earlier than everyone else in the office.
+line_302.jpg,"Ayaw kabalaka ma okay ra na, makakita ra ta'g solusyon ana."
+line_303.jpg,I think that's a great idea and worth trying.
+line_304.jpg,Murag lami kaayo ang lechon baka sa New Year.
+line_305.jpg,The printer is out of paper again and cannot print documents.
+line_306.jpg,Gimingaw ko sa amoang labi na sa akong pamilya.
+line_307.jpg,Please double check the information before submitting.
+line_308.jpg,Murag mahal na kaayo karon ang gasolina kumpara sauna.
+line_309.jpg,Excited na sila para sa graduation human sa ilang mga pagpaningkamot.
+line_310.jpg,I left my charger in the office before going home yesterday.
+line_311.jpg,Ayaw kalimot sa meeting ugma kay importante kaayo to.
+line_312.jpg,The food tastes really good and everyone seems to enjoy it.
+line_313.jpg,Nagpractice sila para sa competition.
+line_314.jpg,Naglibog ko asa ang pilion sa duha.
+line_315.jpg,The event was a huge success and received positive feedback.
+line_316.jpg,Daghan kaayo ug tao karon sa mall tungod kay weekend man karon.
+line_317.jpg,My gosh! I accidentally deleted the document.
+line_318.jpg,Pwede thru online nalang ta mag meeting?
+line_319.jpg,Ang weather karon ba kay perfect kaayo para matulog.
+line_320.jpg,We should prepare a back-up plan in case problems arise.
+line_321.jpg,Naa pa bay available nga seats para sa mga late registrants?
+line_322.jpg,Hinde ko pa natatapos assignments ko dahil marami pang requirements.
+line_323.jpg,Magdala ko ug tubig kay hastang kainit kaayo sa panahon.
+line_324.jpg,The students submitted their reports on time.
+line_325.jpg,Naa koy appointment karong alas tres sa hapon.
+line_326.jpg,Hinde ko sigurado kung available siya bukas.
+line_327.jpg,The system needs an update to improve its security and performance.
+line_328.jpg,Kapoy na kaayo pero padayon lang gihapon ta.
+line_329.jpg,Can you help me with this task because I'm having some difficulties.
+line_330.jpg,Malapit na matapos ang semester kaya abala na ang lahat.
+line_331.jpg,Nag-ulan ganina pero init na kaayo karon maong lisud gyud sabton ang panahon.
+line_332.jpg,I forgot my umbrella at home this morning before leaving for work.
+line_333.jpg,Kumain ka na ba ng lunch or later pa?
+line_334.jpg,"Kadali lang ha, naa ra koy kuhaon sa opisina."
+line_335.jpg,The meeting was moved to next week due to scheduling conflict.
+line_336.jpg,"6Nindot kaayo ang view sa bukid ay, labi nag hayag ang panahon."
+line_337.jpg,Please send me the file before 5 PM so I can review it.
+line_338.jpg,Ang importante kay nahuman nato ang project bisan daghan ug challenges.
+line_339.jpg,Traffic kaayo sa downtown ganina ui maong late ko gamay.
+line_340.jpg,Wala koy tulog gabie kay daghan pako ug gihuman.
+line_341.jpg,"The deadline is approaching fast, so we need to work efficiently."
+line_342.jpg,Pwede nimo ma email na karon ang report?
+line_343.jpg,Mas sayon kung naa tay checklist aron walay malimtan..
+line_344.jpg,Nakakatuwa makita ang progress ng students.
+line_345.jpg,I hope everything goes smoothly today.
+line_346.jpg,Dili ko sure ug sakto na ba ni.
+line_347.jpg,The classroom was cleaned before the activity.
+line_348.jpg,Maayo unta ug dili mag-ulan ugma kay naa tay outdoor activity.
+line_349.jpg,Naghulat pako sa confirmation bago ko mopadayon sa sunod nga lakang.
+line_350.jpg,The presentation lasted for thirty minutes.
+line_351.jpg,Kinsa man atoang e assigned sa documentation?
+line_352.jpg,We really need to improve our communication to avoid misunderstandings.
+line_353.jpg,Nakalimutan kong dalhin ang ID ko.
+line_354.jpg,Dako kaayo ang natabang sa teamwork sa kalampusan sa proyekto.
+line_355.jpg,Let's finish this task before the weekend so we can relax afterward.
